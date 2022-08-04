@@ -3,7 +3,7 @@
 ## Applied machine learning is basically feature engineering. -Andrew Ng
 
 - Outliers ✓
-- Missing Values
+- Missing Values ✓
 - Encoding Scaling
 - Feature Extraction
 
